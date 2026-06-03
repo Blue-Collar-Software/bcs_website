@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <!-- Link to an external CSS file -->
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<template>
+    <head>
+        <title>Blue Collar Software</title>
+    </head>
+    <body>
 
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
+        <header>
+            <h1>Blue Collar Software</h1>
+        </header>
 
-    <main>
-        <p>This is where your main webpage content goes.</p>
-    </main>
+        <main>
+            <p>This is where your main webpage content goes.</p>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 My Website</p>
-    </footer>
-
-    <!-- Link to an external JavaScript file -->
-    <script src="script.js"></script>
-</body>
-</html>
+        <footer>
+            <p>&copy; 2026 My Website</p>
+        </footer>
+    </body>
+</template>
